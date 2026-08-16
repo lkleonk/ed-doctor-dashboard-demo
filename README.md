@@ -2,7 +2,7 @@
 
 [View the live demo](https://ed-chatbot-frontend-demo.vercel.app/doctor-dashboard/)
 
-This repository is a focused showcase of a doctor-facing dashboard I independently designed and developed as a continuation of a university medical-intake project.
+This repository is a focused showcase of a doctor-facing dashboard created as a continuation of a university medical-intake project.
 
 The dashboard turns structured intake information into a clear workspace for clinical staff. It is a frontend demonstration only: all displayed patient data is fictional, and it is not a medical device or a production clinical system.
 
