@@ -2,32 +2,31 @@
 
 ![Doctor dashboard walkthrough](./doctor_dashboard.gif)
 
+A doctor-facing dashboard for reviewing patient intake information and managing emergency-department triage.
+
 [View the live demo](https://ed-chatbot-frontend-demo.vercel.app/doctor-dashboard/)
 
-This repository is a focused showcase of a doctor-facing dashboard created as a continuation of a university medical-intake project.
+## Overview
 
-> This is a demo-only repository. The application source code is intentionally not included.
+The dashboard presents structured intake data in a clear clinical workspace. It helps physicians review patient details, examine AI-assisted triage recommendations, and record their own triage decisions.
 
-The dashboard turns structured intake information into a clear workspace for clinical staff. It is a frontend demonstration only: all displayed patient data is fictional, and it is not a medical device or a production clinical system.
+## Key features
 
-## What the demo shows
-
-- A triage queue for the emergency department, including urgency and status cues
-- Structured patient-detail views with medical history and intake information
-- AI-assisted triage recommendations that remain subject to explicit physician review and confirmation
-- A visual body map and clinically oriented information layout
-- Clear distinction between an AI recommendation and a clinician-confirmed triage decision
+- Emergency-department triage queue with urgency and status indicators
+- Structured patient profiles and medical intake information
+- AI-assisted triage recommendations with clinician review
+- Triage history distinguishing AI assessments from clinician changes
+- Interactive body map for reported symptoms
+- Responsive interface designed for desktop use
 
 ## My contribution
 
-I independently designed and implemented the doctor dashboard: its interface, interaction patterns, triage-review flow, patient-detail views, and the presentation of AI-supported information for clinical decision-making.
-
-The broader medical-intake application originated as a group project. This public showcase intentionally contains only the doctor dashboard and a short product video; it does not include the patient frontend or sensitive data.
+I independently designed and implemented this doctor dashboard as a continuation of a university medical-intake project (which focused on the patient-facing side).
 
 ## Technology
 
-The dashboard was built with React, Next.js, TypeScript, Material UI, and next-intl.
+React · Next.js · TypeScript · Material UI · next-intl
 
 ## Disclaimer
 
-This is a portfolio demonstration using synthetic data. It is not intended for real clinical use or medical decision-making.
+This repository is a presentation-only showcase and does not contain the application source code. All patient data is fictional. The dashboard is not a medical device and is not intended for clinical use.
