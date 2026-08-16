@@ -22,7 +22,7 @@ The broader medical-intake application originated as a group project. This publi
 
 ## Demo video
 
-`doctor_dashboard.mp4` gives a short walkthrough of the interface.
+![Doctor dashboard walkthrough](./doctor_dashboard.gif)
 
 ## Technology
 
