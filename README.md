@@ -1,8 +1,12 @@
 # Doctor Dashboard for Emergency Department Triage
 
+![Doctor dashboard walkthrough](./doctor_dashboard.gif)
+
 [View the live demo](https://ed-chatbot-frontend-demo.vercel.app/doctor-dashboard/)
 
 This repository is a focused showcase of a doctor-facing dashboard created as a continuation of a university medical-intake project.
+
+> This is a demo-only repository. The application source code is intentionally not included.
 
 The dashboard turns structured intake information into a clear workspace for clinical staff. It is a frontend demonstration only: all displayed patient data is fictional, and it is not a medical device or a production clinical system.
 
@@ -19,10 +23,6 @@ The dashboard turns structured intake information into a clear workspace for cli
 I independently designed and implemented the doctor dashboard: its interface, interaction patterns, triage-review flow, patient-detail views, and the presentation of AI-supported information for clinical decision-making.
 
 The broader medical-intake application originated as a group project. This public showcase intentionally contains only the doctor dashboard and a short product video; it does not include the patient frontend or sensitive data.
-
-## Demo video
-
-![Doctor dashboard walkthrough](./doctor_dashboard.gif)
 
 ## Technology
 
